@@ -1,0 +1,19 @@
+{
+  "name": "internship_carvalho",
+  "version": "1.0.0",
+  "description": "Internship Test from Carvalho Aleixo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "jsdom": "^24.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
