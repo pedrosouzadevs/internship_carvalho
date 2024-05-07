@@ -27,7 +27,7 @@ scrapeBtn.addEventListener('click', async () => {
     <table>
       <thead>
         <tr>
-          <th>Results</th>
+          <th>Results:</th>
         </tr>
       </thead>
       <tbody>
