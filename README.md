@@ -1,6 +1,6 @@
 # Internship Carvalho
 
-This project is a web application developed for the Internship selection process at Carvalho.
+This project is a web application developed for the Internship selection process at Carvalho Aleixo Inc.
 
 ## Table of Contents
 1. [Installation](#installation)

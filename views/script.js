@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const keywordInput = document.getElementById('keyword');
   const resultsDiv = document.getElementById('results');
 
-// This function will check whether the input is empty, if not, this input will be added to the api url. With this url changed, a request will be made to the server to scrape this url, returning the page results.
+// This function will check whether the input is empty, if not, this input will be added to the api url. With this url updated, a request will be made to the server to scrape this url, returning the page results.
 scrapeBtn.addEventListener('click', async () => {
   const keyword = keywordInput.value.trim();
   if (keyword === '') {
