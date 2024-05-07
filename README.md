@@ -6,7 +6,6 @@ This project is a web application developed for the Internship selection process
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Contributing](#contributing)
-4. [License](#license)
 
 ## Installation
 
@@ -33,13 +32,13 @@ This project is a web application developed for the Internship selection process
 1. **Run the project:**
 
     ```sh
-    npm start
+    npm run dev
     ```
 
 2. **Open your web browser and go to:**
 
     ```
-    http://localhost:PORT
+    http://localhost:3000
     ```
 
 3. **Interact with the application.**
@@ -54,7 +53,3 @@ If you'd like to contribute to this project, you can follow these steps:
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/new-feature`).
 6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
